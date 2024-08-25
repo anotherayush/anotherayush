@@ -1,4 +1,4 @@
-# Hello, I'm Ayush! 👋
+# Hello, I'm Ayush!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to create, learn, and explore new technologies. Here's a little about me and what you'll find here.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, le
 
 - 🌱 Currently learning and experimenting with new tools and technologies.
 - 🎯 Always on the lookout for exciting challenges and opportunities to collaborate.
-- [My Portfolio](https://anotherayush.netlify.app/)
+- 💾 [My Portfolio](https://anotherayush.netlify.app/)
 
 ## 📫 Get in Touch
 
@@ -16,5 +16,4 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, le
 ## 🌍 Let's Connect!
 
 If you have any questions, ideas, or just want to chat, feel free to reach out! I'm always open to new connections and collaborations.
-
-Thanks for stopping by!
+Have a look at my porjects below and Thanks for stopping by!
