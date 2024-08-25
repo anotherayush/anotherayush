@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Ayush! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to create, learn, and explore new technologies. Here's a little about me and what you'll find here.
 
@@ -6,10 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, le
 
 - 🌱 Currently learning and experimenting with new tools and technologies.
 - 🎯 Always on the lookout for exciting challenges and opportunities to collaborate.
-
-## 📈 Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anotherayush&show_icons=true&theme=radical)
+- [My Portfolio](https://anotherayush.netlify.app/)
 
 ## 📫 Get in Touch
 
