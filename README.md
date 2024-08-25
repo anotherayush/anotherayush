@@ -15,5 +15,5 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, le
 
 ## 🌍 Let's Connect!
 
-If you have any questions, ideas, or just want to chat, feel free to reach out! I'm always open to new connections and collaborations.
+If you have any questions, ideas, or just want to chat, feel free to reach out! I'm always open to new connections and collaborations.  
 Have a look at my porjects below and Thanks for stopping by!
