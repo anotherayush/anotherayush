@@ -12,8 +12,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, le
 
 - LinkedIn: [Ayush Srivastava](https://www.linkedin.com/in/ayush-srivastava-4124t93/)
 - Email: [ayush2004@outlook.com](mailto:ayush2004@outlook.com)
+- Portfolio:[Link](https://ayushsriv.onrender.com)
 
 ## 🌍 Let's Connect!
 
 If you have any questions, ideas, or just want to chat, feel free to reach out! I'm always open to new connections and collaborations.  
-Have a look at my porjects below and Thanks for stopping by!
+Have a look at my projects below and Thanks for stopping by!
